@@ -3,7 +3,7 @@
 # separate terms of service, privacy policy, and support
 # documentation.
 
-name: Deploy Symfony Application to Production Server
+name: Deploy Symfony Application to Production Server 1
 on:
   push:
     branches:
